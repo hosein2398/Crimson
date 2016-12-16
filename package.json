@@ -1,0 +1,18 @@
+{
+    "title": "Crismon",
+    "name": "Crismon",
+    "description": "Bracket theme made for HTML,CSS/SCSS/SASS, JavaScript.",
+    "homepage": "https://github.com/hosein2398/Crimson",
+    "version": "1.1.0",
+    "author": "Hosein2398 (https://github.com/hosein2398)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.1.0"
+    },
+    "theme": {
+        "file": "main.css",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "Crimson", "purple"]
+}
