@@ -4,7 +4,7 @@ Simple theme for brackets
 
 
 ### Supported Languages:
-- **HTML, XML**
+- **HTML,XML**
 - **CSS, SCSS, SASS**
 - **JavaScript**
 
