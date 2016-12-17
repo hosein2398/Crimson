@@ -1,6 +1,6 @@
 Crismon Theme
 ==============================================
-Simple theme for brackets
+Simple theme for Brackets
 
 
 ### Supported Languages:
